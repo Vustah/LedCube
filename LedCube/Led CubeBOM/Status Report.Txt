@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 08.46.37 On 23.03.2019
+
+Output: BOM_PartType
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Led Cube.PrjPcb]
+   Generated File[BOM_PartType-Led Cube.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 08.46.45 On 23.03.2019

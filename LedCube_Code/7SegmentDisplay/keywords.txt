@@ -1,0 +1,3 @@
+SevenSegmentDisplay KEYWORD1
+display7Segment     KEYWORD2
+sendNumber          KEYWORD2
